@@ -3,17 +3,12 @@ var string = "hello!"
 
 var uppercase = string
  
-uppercase.toUpperCase() === uppercase // true
+
  
 var lowercase = string
  
-lowercase.toLowerCase() === lowercase // true
- 
-var mixedCase = 'Hi there!'
- 
-mixedCase.toLowerCase() === mixedCase // false
- 
-mixedCase.toUpperCase() === mixedCase // false
+
+
 
 
 
