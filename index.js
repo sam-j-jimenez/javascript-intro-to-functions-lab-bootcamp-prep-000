@@ -1,11 +1,11 @@
 var string = "hello!"
 
 
-var uppercase = "string"
+var uppercase = string
  
 uppercase.toUpperCase() === uppercase // true
  
-var lowercase = 'string'
+var lowercase = string
  
 lowercase.toLowerCase() === lowercase // true
  
